@@ -1,0 +1,150 @@
+[
+  {
+    "id": "yachting",
+    "title": "Private Expedition Charter",
+    "subtitle": "Where the Boardroom Meets the Boreal Horizon",
+    "icon": "boat",
+    "hero_image": "/images/activities/a1-0.webp",
+    "gallery": [
+      "/images/activities/a1-1.webp",
+      "/images/activities/a1-2.webp",
+      "/images/activities/a1-3.webp"
+    ],
+    "description": "Charter our flagship vessel, 'The Midnight Sun'. A floating sanctuary equipped with Starlink Maritime, designed for executive offsites or deep creative sprints.",
+    "full_content": "<h3>The Philosophy of Water</h3><p>True clarity doesn't come from a notification on your phone; it comes from the silence of a glacial fjord. We invite you to step aboard 'The Midnight Sun', a vessel engineered not just for transport, but for transformation.</p><p>This is not a sightseeing tour. It is a mobile headquarters for those who need to disconnect from the noise to reconnect with their vision. Whether you are closing a Series B round or writing the final chapter of your book, the rhythmic sound of the hull slicing through glassy water provides the ultimate backdrop for deep work.</p><br><h3>The Vessel: 'The Midnight Sun'</h3><p>Custom-built in Finland for Arctic conditions, she moves with a silent grace. The interiors are clad in acoustic walnut and wool to dampen sound. Gyroscopic stabilizers ensure that your espresso—and your focus—remain undisturbed, regardless of the conditions outside.</p><br><h3>Wilderness Omakase</h3><p>Your private chef doesn't just cook; they forage. Expect a culinary narrative that mirrors the landscape: sashimi-grade lake trout caught minutes before serving, spruce-tip infused oils, and bison sliders grilled on the aft deck. We curate a wine list featuring bold New World reds that pair perfectly with the rugged scenery.</p>",
+    "features": [
+      "Starlink Maritime (200Mbps Low Latency)",
+      "Sound-proofed Conference Salon",
+      "Gyroscopic Zero-Roll Stabilization",
+      "Private Chef & Sommelier",
+      "Drone Landing Pad"
+    ],
+    "specs": {
+      "Capacity": "Max 8 Guests",
+      "Duration": "4h - 8h or Overnight",
+      "Internet": "Starlink Mesh",
+      "Crew": "Captain + 2 Staff",
+      "Vessel": "50ft Expedition Class",
+      "Food": "Full Chef Service"
+    }
+  },
+ {
+    "id": "sports",
+    "title": "High-Performance Complex",
+    "subtitle": "Optimizing Human Output in the Wild",
+    "icon": "trophy",
+    "hero_image": "/images/activities/a2-0.webp",
+    "gallery": [
+      "/images/activities/a2-1.webp",
+      "/images/activities/a2-2.webp",
+      "/images/activities/a2-3.webp"
+    ],
+    "description": "Not a hotel gym, but an elite training facility. Featuring a glass-walled lifting zone, altitude simulation rooms, and a forest calisthenics park designed to break limits.",
+    "full_content": "<h3>The Biology of Focus</h3><p>Physical exertion is the fastest route to cognitive clarity. Our 4,000 sq. ft. facility is engineered to push your physiology so your mind can follow. Encased in triple-glazed glass, the gym overlooks the dense pine forest, flooding the space with natural light while maintaining a hospital-grade air quality index.</p><br><h3>Olympic Grade Arsenal</h3><p>We have partnered with Technogym and Rogue Fitness to provide an arsenal worthy of professional athletes. The floor features three Olympic lifting platforms with calibrated plates, a full Keiser pneumatic circuit for power development, and a cardio zone equipped with Woodway curved treadmills.</p><br><h3>Altitude & Recovery</h3><p>For those preparing for high-altitude summits or seeking hematological benefits, our secluded 'Apex Room' offers simulated altitude training up to 5,000 meters. Post-workout, transition seamlessly into our recovery zone featuring Hyperice percussion therapy stations and Normatec compression boots to flush lactate immediately.</p><br><h3>Forest Calisthenics</h3><p>Step outside the glass walls to the 'Iron Grove'—an outdoor functional fitness park built from raw timber and matte black steel. Pull-up bars, dipping stations, and climbing ropes allow you to train in the fresh, oxygen-rich air of the boreal forest.</p>",
+    "features": [
+      "Technogym Biocircuit™ System",
+      "Altitude Simulation Chamber",
+      "Outdoor 'Iron Grove' Calisthenics",
+      "Woodway Curve Treadmills",
+      "Hyperice Recovery Zone"
+    ],
+    "specs": {
+      "Access": "24/7 Biometric Entry",
+      "Equipment": "Rogue / Technogym",
+      "Environment": "HEPA Air Filtration",
+      "Recovery": "Normatec Integrated",
+      "Coaching": "On-Demand (Remote/Live)",
+      "Vibe": "Industrial Zen"
+    }
+  },
+  
+  {
+    "id": "spa",
+    "title": "Nordic Thermal Circuit",
+    "subtitle": "Fire, Ice, and the Science of Rest",
+    "icon": "spa",
+    "hero_image": "/images/activities/a3-0.webp",
+    "gallery": [
+      "/images/activities/a3-1.webp",
+      "/images/activities/a3-2.webp",
+      "/images/activities/a3-3.webp"
+    ],
+    "description": "Master your autonomic nervous system through hydrotherapy. A guided cycle of wood-fired heat, glacial cold exposure, and deep relaxation overlooking the valley.",
+    "full_content": "<h3>The Ritual of Contrast</h3><p>Recovery is active, not passive. Our thermal circuit is designed around the centuries-old Nordic tradition of moving between extremes to flush toxins and spike dopamine. This is not a beauty spa; it is a physiological reset button for your nervous system.</p><br><h3>Cycle 1: The Heat</h3><p>Begin in our dry Red Cedar Sauna, heated to 85°C. The panoramic glass wall frames the forest, but the focus is internal. As your core temperature rises, blood vessels dilate, and stress hormones evaporate. We use locally sourced birch and eucalyptus essential oils to aid respiration.</p><br><h3>Cycle 2: The Cold Shock</h3><p>Step outside and immerse yourself in the plunge pool, maintained at a biting 4°C. The shock is immediate and necessary. It forces blood to your vital organs and triggers a massive release of norepinephrine. It requires courage, but the clarity that follows is unmatched.</p><br><h3>Cycle 3: Integration</h3><p>The final phase happens in the 'Sanctuary Yurt' around a central open fire. Wrapped in heavy wool blankets with a cup of herbal tea, this is where the body stabilizes and the mind goes quiet. We recommend completing 3 full cycles for maximum benefit.</p>",
+    "features": [
+      "Panoramic Red Cedar Sauna",
+      "Glacial Cold Plunge (4°C)",
+      "Essential Oil Aromatherapy",
+      "Open-Fire Relaxation Yurt",
+      "Herbal Tea Service"
+    ],
+    "specs": {
+      "Capacity": "Max 6 Guests",
+      "Session Time": "90 Minutes",
+      "Temperature": "85°C to 4°C",
+      "Guidance": "Self-Guided or Instructor",
+      "Etiquette": "Digital Detox (No Phones)"
+    }
+  },
+
+ {
+    "id": "hiking",
+    "title": "Wild Trails Expedition",
+    "subtitle": "Navigating the Silent North",
+    "icon": "hiking",
+    "hero_image": "/images/activities/a4-0.webp",
+    "gallery": [
+      "/images/activities/a4-1.webp",
+      "/images/activities/a4-2.webp",
+      "/images/activities/a4-3.webp"
+    ],
+    "description": "50 acres of private wilderness at your doorstep. From meditative forest bathing paths to technical ridge scrambles, explore the untamed map with confidence.",
+    "full_content": "<h3>The Terrain</h3><p>The ThunderVoyage reserve sits on a unique geological intersection of ancient granite shields and dense boreal forest. We have mapped over 15km of private trails that range from moss-covered 'soft paths' ideal for morning contemplation, to technical ridge climbs that reward effort with panoramic views of the entire valley.</p><br><h3>Tech-Enabled Exploration</h3><p>Getting lost is a feeling, not a reality here. Before heading out, every guest is equipped with a Garmin inReach satellite tracker connected to our base operations. You get the thrill of absolute solitude with the safety net of military-grade positioning technology. It’s the perfect balance of risk and control.</p><br><h3>Shinrin-yoku (Forest Bathing)</h3><p>We actively encourage the practice of Shinrin-yoku. The air in our old-growth pine forests is rich in phytoncides—natural antimicrobial compounds that have been proven to lower cortisol and boost the immune system. A two-hour trek here does more for your stress levels than a week of sleep.</p><br><h3>The Destination: Eagle’s Nest</h3><p>The signature hike leads to 'Eagle’s Nest', a granite outcrop 300 meters above the lake. We can arrange a 'Summit Lunch' to be waiting for you there—a backpack prepared by our kitchen with thermal flasks of coffee, energy-dense provisions, and zero-waste packaging.</p>",
+    "features": [
+      "Garmin inReach Safety Beacons",
+      "Mapped Private Trail Network",
+      "Curated 'Summit Lunch' Packs",
+      "Bear Safety Equipment & Briefing",
+      "Guided Bio-Regional Tours"
+    ],
+    "specs": {
+      "Difficulty": "Green to Double Black",
+      "Distance": "15km Total Network",
+      "Elevation": "300m Vertical Gain",
+      "Gear": "Boots/Poles Provided",
+      "Safety": "Satellite Tracked",
+      "Guide": "Optional"
+    }
+  },
+
+
+  {
+    "id": "dining",
+    "title": "The Forager's Table",
+    "subtitle": "Hyper-Local. Elemental. Unscripted.",
+    "icon": "dining",
+    "hero_image": "/images/activities/a5-0.webp",
+    "gallery": [
+      "/images/activities/a5-1.webp",
+      "/images/activities/a5-2.webp",
+      "/images/activities/a5-3.webp"
+    ],
+    "description": "A culinary journey that tastes like the landscape. Ingredients sourced strictly within a 100km radius, prepared over open flames without a set menu.",
+    "full_content": "<h3>The 100-Mile Rule</h3><p>We do not import avocados. We do not fly in tuna. Our kitchen operates under a strict manifesto: if it doesn't grow, swim, or graze within 100km of our base, it doesn't reach your plate. This constraint breeds creativity, resulting in flavors that are intensely fresh and uniquely tied to this specific coordinate on the map.</p><br><h3>Cooking with Fire</h3><p>There are no gas ovens here. Our chefs cook exclusively over hardwood embers and open flame. It is a primal, high-stakes method that imparts a signature smokiness to everything from the slow-roasted root vegetables to the seared venison loin. You sit at the 'Chef's Counter', watching the brigade work in a silent, synchronized dance of heat and timing.</p><br><h3>The Wine Cellar</h3><p>To balance the ruggedness of the food, our cellar is stocked with sophisticated, low-intervention wines. We focus on 'New World' producers who share our philosophy of minimal interference—letting the terroir speak for itself. Our sommelier is on hand to guide you through obscure varietals that you won't find on a standard list.</p><br><h3>Communal Spirit</h3><p>Dinner at ThunderVoyage is a communal event. While private tables are available, we encourage guests to join the long table. This is where founders meet artists, and where the day's solo deep work transforms into the evening's collaborative conversation.</p>",
+    "features": [
+      "Open-Fire Kitchen Theatre",
+      "Strict Local Sourcing (100km)",
+      "Low-Intervention Wine List",
+      "Daily Changing Tasting Menu",
+      "Private Dining Room Available"
+    ],
+    "specs": {
+      "Sourcing": "100km Radius",
+      "Style": "Open Fire / Embers",
+      "Seating": "Communal & Private",
+      "Wines": "Organic / Bio-Dynamic",
+      "Dietary": "Accommodated",
+      "Vibe": "Dark & Intimate"
+    }
+  }
+]

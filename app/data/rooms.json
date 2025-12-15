@@ -1,0 +1,405 @@
+[
+  {
+    "id": 101,
+    "title": "Deep Work Pod Alpha",
+    "category": "Solo Focus",
+    "guests": 1,
+    "size": 22,
+    "price": 85,
+    "view": "Forest Zen",
+    "rating": 4.9,
+    "bed_type": "Single (Premium Murphy)",
+    "floor": 1,
+    "amenities": ["wifi", "ac", "soundproof", "workspace", "coffee", "smart_tv"],
+    "work_setup": [
+      "Herman Miller Aeron (Remastered)",
+      "Dell UltraSharp 34\" Curved Monitor",
+      "CalDigit TS3 Plus Docking Station",
+      "Hardwired Fiber Ethernet (1Gbps)"
+    ],
+    "features": [
+      "9mm PET Acoustic Felt Paneling",
+      "Philips Hue Circadian Lighting",
+      "Blueair 411 Auto Air Purifier",
+      "Nespresso Vertuo Next"
+    ],
+    "description": "A sound-dampened acoustic sanctuary. Designed for developers and writers who need 12 hours of uninterrupted flow state.",
+    "long_description": "This unit was engineered with a single metric in mind: Cognitive Load. We removed everything that distracts so you can focus purely on output.\n\n<strong>The Acoustics*\nThe walls are lined with high-density 9mm PET acoustic felt, reducing ambient noise by approximately 40dB. You will not hear the wind, the rain, or your neighbors. It is as close to a sensory deprivation tank as a bedroom can get.\n\nThe Workspace\nWe know that a 'laptop friendly' table isn't enough for serious work. The Pod Alpha features a customized solid-walnut standing desk equipped with a Herman Miller Aeron chair. We provide a Thunderbolt 3 dock and a 34-inch curved monitor, so you can plug in one cable and have your full command center ready in seconds.\n\nRest & Reset\nWhen the work is done, the Italian-made Murphy bed lowers effortlessly over the sofa without needing to clear the desk. The lighting system is pre-programmed to shift from 6500K (daylight focus) to 2700K (sunset relax) automatically, signaling your brain that the sprint is over.",
+    "images": [
+      "/images/rooms/101-1.webp",
+      "/images/rooms/101-2.webp",
+      "/images/rooms/101-3.webp"
+    ]
+  },
+
+  {
+    "id": 102,
+    "title": "Nomad Single Studio",
+    "category": "Solo Focus",
+    "guests": 1,
+    "size": 28,
+    "price": 95,
+    "view": "Training Grounds",
+    "rating": 4.7,
+    "bed_type": "Double",
+    "floor": 1,
+    "amenities": ["wifi", "ac", "workspace", "kitchen", "recovery"],
+    "work_setup": [
+      "Steelcase Gesture Chair",
+      "Jarvis Bamboo Standing Desk",
+      "LG 27\" 4K Ergo Monitor",
+      "Logitech MX Master 3 Mouse"
+    ],
+    "features": [
+      "Vitamix E310 Explorian Blender",
+      "In-Room Pull-up Bar",
+      "Manduka PRO Yoga Mat",
+      "Blackout Roller Shades (100%)"
+    ],
+    "description": "Industrial loft vibes located steps from the gym. Ideal for those who structure their day around training blocks and deep work sessions.",
+    "long_description": "The Nomad Studio is the bridge between high-performance training and high-performance work. Located on the ground floor, just 45 seconds from the gym entrance, it minimizes friction in your daily routine.\n\nNutrition First\nUnlike standard hotel kitchenettes, this space is equipped for metabolic fueling. You'll find a Vitamix blender for post-workout smoothies, a digital food scale, and a large-capacity fridge for meal prep containers. The polished concrete floors are rugged and easy to clean, so don't worry about bringing in muddy trail runners.\n\nActive Recovery\nThe room includes a dedicated 'mobility corner' with a high-density foam roller and a Manduka yoga mat. The layout encourages movement—there is a pull-up bar mounted discreetly above the bathroom door frame for greasing the groove throughout the day.\n\nThe Desk\nWhile the focus is physical, the digital setup is no slouch. The Steelcase Gesture chair is specifically chosen for its versatility, supporting you whether you're leaning back on a call or hunched forward in a coding sprint.",
+    "images": [
+      "/images/rooms/102-1.webp",
+      "/images/rooms/102-2.webp",
+      "/images/rooms/102-3.webp"
+    ]
+  },
+
+  {
+    "id": 103,
+    "title": "Monk Mode Cabin",
+    "category": "Solo Focus",
+    "guests": 1,
+    "size": 20,
+    "price": 75,
+    "view": "Forest Zen",
+    "rating": 5.0,
+    "bed_type": "Single (Japanese Futon)",
+    "floor": "Ground (Standalone)",
+    "amenities": ["wifi", "ac", "soundproof", "fireplace", "kitchen"],
+    "work_setup": [
+      "Solid Oak Writing Desk",
+      "Anglepoise Original 1227 Lamp",
+      "Starlink Roam (High Priority)",
+      "Analog Note-Taking Kit"
+    ],
+    "features": [
+      "Jøtul F 602 Cast Iron Stove",
+      "Raw Red Cedar Interiors",
+      "No TV / No Smart Speakers",
+      "Outdoor Cold Shower"
+    ],
+    "description": "A radical return to basics. No screens on the walls, just a wood stove, a writing desk, and the smell of raw cedar.",
+    "long_description": "We built this unit for the 'Digital Minimalist'. It is located 500 meters from the main lodge, physically separating you from the hive mind. There are no smart assistants listening, no blinking LEDs on the router (it's hidden), and absolutely no television.\n\nThe Analog Experience\nThe centerpiece is the Jøtul cast-iron stove. You will have to chop your own kindling (provided) and light the fire. This ritual creates a psychological boundary between 'leisure' and 'focus'. The bed is a high-end Japanese futon on tatami mats, promoting a grounded, restorative sleep.\n\nHidden Tech\nDespite the 19th-century aesthetics, the connectivity is cutting-edge. We use a hidden Starlink terminal to provide 150Mbps low-latency internet, ensuring that when you do need to push a commit or send a manuscript, the connection is flawless. It’s the only compromise we made.",
+    "images": [
+      "/images/rooms/103-1.webp",
+      "/images/rooms/103-2.webp",
+      "/images/rooms/103-3.webp"
+    ]
+  },
+
+  {
+    "id": 201,
+    "title": "Co-Founder Suite",
+    "category": "Duo/Partner",
+    "guests": 2,
+    "size": 45,
+    "price": 160,
+    "view": "Ocean Breeze",
+    "rating": 4.8,
+    "bed_type": "2x Queen",
+    "floor": 2,
+    "amenities": ["wifi", "ac", "workspace", "monitor", "kitchen", "whiteboard"],
+    "work_setup": [
+      "2x Fully Jarvis Standing Desks",
+      "2x Herman Miller Sayl Chairs",
+      "Floor-to-Ceiling Glass Whiteboard",
+      "Logitech Rally Bar (for calls)"
+    ],
+    "features": [
+      "Moccamaster KGBV Select Brewer",
+      "Bose SoundLink Revolve+ Speaker",
+      "Dual Zoning Acoustics",
+      "Stocked 'Brain Food' Minibar"
+    ],
+    "description": "A war room for two. Features dual workstations and a massive whiteboard wall for mapping out your Q3 strategy.",
+    "long_description": "Building a company requires friction and flow. We designed this suite to facilitate both. It is not just a room with two desks; it is a micro-incubator.\n\nThe War Room\nThe defining feature is the 3-meter wide magnetic glass whiteboard wall. It’s the first thing you see when you wake up, perfect for capturing those shower thoughts before they evaporate. The layout allows for 'shoulder-surfing' collaboration but gives enough space to put on headphones and grind separately.\n\nFuel & Flow\nBad coffee kills momentum. We installed a Technivorm Moccamaster batch brewer so you can brew 1.25L of gold-standard coffee to power through a 4-hour sprint. The acoustic treatment is zoned: you can take a call in the sleeping area while your co-founder types furiously in the workspace without bleed-through.\n\nThe View\nLocated on the second floor, the workspace faces the lake. When you hit a mental block, just look up. The horizon line is a natural reset button for the brain.",
+    "images": [
+      "/images/rooms/201-1.webp",
+      "/images/rooms/201-2.webp",
+      "/images/rooms/201-3.webp"
+    ]
+  },
+  
+
+  
+  {
+    "id": 202,
+    "title": "Athlete Recovery Double",
+    "category": "Duo/Partner",
+    "guests": 2,
+    "size": 50,
+    "price": 180,
+    "view": "Training Grounds",
+    "rating": 4.9,
+    "bed_type": "King (Eight Sleep™ Pod 3)",
+    "floor": 2,
+    "amenities": ["wifi", "ac", "recovery", "smart_tv", "bath"],
+    "work_setup": [
+      "Vari Electric Standing Desk",
+      "Herman Miller Embody Chair",
+      "Hyperice Venom Back Wrap (at desk)",
+      "Ultrawide LG 38\" Monitor"
+    ],
+    "features": [
+      "Brass Monkey Cold Plunge (3°C)",
+      "Normatec 3 Legs System",
+      "Infrared PEMF Mat",
+      "Blackout + Soundproofing"
+    ],
+    "description": "A private regeneration lab. Features an in-room automated ice bath and sleep-tech designed to spike your HRV.",
+    "long_description": "We built this room for the 1%. Not the wealthy, but the physical elite. If you are tapering for an Ironman or recovering from a season of CrossFit, this is your sanctuary.\n\nContrast Therapy\nThe bathroom is a wet room equipped with a Brass Monkey automated cold plunge that holds a steady 3°C. No ice bags needed. Combine that with the steam shower for a private contrast therapy session to flush lactate and reduce inflammation without leaving your suite.\n\nThe Sleep System\nRecovery happens during REM. We installed the Eight Sleep™ Pod 3 cover on a premium latex mattress. It actively regulates your temperature throughout the night, cooling you down to induce deep sleep and warming you up to wake you naturally—no alarm needed.\n\nActive Sitting\nEven while you work, you recover. The desk chair is a Herman Miller Embody, specifically chosen for its pressure distribution. We also provide a Hyperice Venom back wrap at the desk to keep your lumbar loose during long Zoom calls.",
+    "images": [
+      "/images/rooms/202-1.webp",
+      "/images/rooms/202-2.webp",
+      "/images/rooms/202-3.webp"
+    ]
+  },
+  {
+    "id": 203,
+    "title": "Garden Loft",
+    "category": "Duo/Partner",
+    "guests": 2,
+    "size": 42,
+    "price": 150,
+    "view": "Forest Zen",
+    "rating": 4.6,
+    "bed_type": "Queen",
+    "floor": 1,
+    "amenities": ["wifi", "pet", "kitchen", "ac", "coffee"],
+    "work_setup": [
+      "Outdoor/Indoor Mobile Desk",
+      "Portable Power Station (EcoFlow)",
+      "High-Contrast E-Ink Monitor (Optional)",
+      "Mesh WiFi 6 Outdoor Extender"
+    ],
+    "features": [
+      "Yeti Trailhead™ Dog Bed",
+      "Dyson V15 Detect (Pet Hair)",
+      "Private Fenced Patio (6ft)",
+      "Kärcher Mud Cleaning Station"
+    ],
+    "description": "Ground floor luxury designed for dog owners. Durable materials, direct trail access, and a private fenced yard.",
+    "long_description": "Usually, 'pet friendly' means a worn-out room in the basement. Not here. The Garden Loft is designed with the reality of dog ownership in mind, without sacrificing aesthetics.\n\nMud & Paws\nThe floors are heated polished concrete—indestructible and easy to clean. At the entrance, we built a custom 'Mud Station' with a handheld sprayer, heavy-duty towels, and organic paw balm. You can return from a rainy hike and get clean in seconds before relaxing.\n\nThe Yard\nThe sliding glass doors open to a 400 sq. ft. private patio fenced with 6ft cedar privacy panels. Your dog can roam freely and safely while you work outside. We use pet-safe turf and natural landscaping, so there is no mud pit to worry about.\n\nWork in Nature\nWe encourage working al fresco here. The room comes with a portable EcoFlow power station and a wheeled desk, allowing you to set up your office on the patio. The WiFi mesh is boosted specifically for this zone, guaranteeing full signal even under the trees.",
+    "images": [
+      "/images/rooms/203-1.webp",
+      "/images/rooms/203-2.webp",
+      "/images/rooms/203-3.webp"
+    ]
+  },
+
+
+
+  
+ 
+  {
+    "id": 301,
+    "title": "Executive Lake Villa",
+    "category": "Mentor Luxe",
+    "guests": 2,
+    "size": 80,
+    "price": 350,
+    "view": "Ocean Breeze",
+    "rating": 5.0,
+    "bed_type": "California King (Hästens)",
+    "floor": "Penthouse",
+    "amenities": ["wifi", "ac", "recovery", "workspace", "monitor", "kitchen", "fireplace"],
+    "work_setup": [
+      "Eames Soft Pad Management Chair",
+      "Walnut Boardroom Table (Seats 6)",
+      "Polycom Studio Video Bar",
+      "Dedicated Encrypted VLAN"
+    ],
+    "features": [
+      "Private Cedar Hot Tub",
+      "Sub-Zero Wine Fridge",
+      "Bang & Olufsen Sound System",
+      "Butler Pantry (Invisible Service)"
+    ],
+    "description": "For those who lead. Private plunge pool, boardroom table for 6, and panoramic views of the glacial lake.",
+    "long_description": "This isn't a hotel room; it's a remote headquarters. Designed for C-level executives who need to balance high-pressure decision making with absolute decompression.\n\nThe Boardroom\nThe living area is dominated by a 3-meter solid walnut table that serves a dual purpose. By day, it’s a fully equipped boardroom with a Polycom video bar and an 85-inch screen for strategy sessions. By night, it transforms into a private dining space for you and your guests.\n\nSecurity & Privacy\nWe understand the value of IP. This villa operates on its own dedicated fiber line with a segregated VLAN—your data never touches the guest network. There is a separate service entrance (Butler Pantry) allowing staff to restock the Sub-Zero fridge or deliver meals without ever entering your personal space or interrupting a call.\n\nThe Sleep\nYour recovery is powered by a $30,000 Hästens Vividus bed, widely considered the best in the world. Combined with the sound of the lake lapping against the rocks below, it guarantees the kind of deep sleep that usually requires medication.",
+    "images": [
+      "/images/rooms/301-1.webp",
+      "/images/rooms/301-2.webp",
+      "/images/rooms/301-3.webp"
+    ]
+  },
+
+  {
+    "id": 302,
+    "title": "Bio-Hacker Penthouse",
+    "category": "Mentor Luxe",
+    "guests": 2,
+    "size": 75,
+    "price": 320,
+    "view": "Forest Zen",
+    "rating": 4.9,
+    "bed_type": "King (Bryte AI Mattress)",
+    "floor": 3,
+    "amenities": ["wifi", "ac", "recovery", "soundproof", "monitor"],
+    "work_setup": [
+      "Hag Capisco Active Chair",
+      "Joovv Red Light Therapy Panel (Desktop)",
+      "Uplift V2 Commercial Desk",
+      "E-Ink Secondary Monitor"
+    ],
+    "features": [
+      "Clearlight Infrared Sauna (Full Spectrum)",
+      "Molekule Air Pro (PECO Filtration)",
+      "Somavedic EMF Harmonizer",
+      "Hydrogen Water Generator"
+    ],
+    "description": "Circadian lighting system, advanced air filtration, and a personal infrared sauna in the bathroom.",
+    "long_description": "Step into a controlled environment designed to reduce biological age. Every variable in this penthouse—light, air, water, and radiation—is managed to optimize human biology.\n\nThe Detox\nThe master bathroom features a private Clearlight Sanctuary infrared sauna. Unlike traditional saunas, it uses full-spectrum heat to penetrate tissue and mobilize heavy metals. Follow it up with a vitamin-C infused shower to neutralize chlorine and nourish the skin microbiome.\n\nEnvironmental Control\nThe air you breathe is scrubbed by a Molekule PECO system, removing viruses and VOCs at a molecular level. We also installed Somavedic devices to mitigate EMF radiation from devices, creating a 'quiet zone' for your nervous system. You will feel the difference in your baseline anxiety levels within 24 hours.\n\nWork with Biology\nThe workspace is equipped with a desktop Joovv red light panel. Use it in the morning to stimulate mitochondria and boost cognitive function instead of relying on caffeine. The Hag Capisco chair encourages active sitting and open hips, preventing the 'tech neck' posture.",
+    "images": [
+      "/images/rooms/302-1.webp",
+      "/images/rooms/302-2.webp",
+      "/images/rooms/302-3.webp"
+    ]
+  },
+
+ 
+  {
+    "id": 401,
+    "title": "Startup Incubator Villa",
+    "category": "Team Squad",
+    "guests": 6,
+    "size": 150,
+    "price": 750,
+    "view": "Ocean Breeze",
+    "rating": 5.0,
+    "bed_type": "6x Twin XL (Soundproof Pods)",
+    "floor": "Standalone Villa",
+    "amenities": ["wifi", "ac", "kitchen", "workspace", "monitor", "whiteboard", "coffee"],
+    "work_setup": [
+      "4x Autonomous SmartDesks (Pro)",
+      "Huge Magnetic Glass Whiteboard Wall",
+      "85\" Sony Bravia (AirPlay 2 for Demos)",
+      "Unifi Enterprise WiFi 6E Access Points"
+    ],
+    "features": [
+      "Breville Oracle Touch Espresso Machine",
+      "Communal Chef's Island",
+      "Acoustic Privacy Bunks",
+      "Outdoor BBQ Deck"
+    ],
+    "description": "A massive living room converted into a coworking space. Dedicated fiber line, 3 bunk rooms, and a communal kitchen.",
+    "long_description": "We designed this villa for early-stage teams in 'crunch mode'. Whether you are preparing for a Series A pitch or shipping an MVP in a week, this space removes all friction from group collaboration.\n\nThe War Room\nThe entire ground floor is an open-plan workspace. We replaced the traditional living room furniture with a cluster of four motorized standing desks and a breakout lounge. One entire wall is floor-to-ceiling magnetic glass—essential for mapping out user flows or architecture. The 85-inch screen is configured for wireless casting, making daily standups or code reviews seamless.\n\nSleep Engineering\nLiving together shouldn't mean losing privacy. The sleeping quarters feature custom-built 'Japanese Capsule' style bunks. Each bunk has its own heavy soundproof curtain, ventilation fan, reading light, and charging port. Night owls can code until 4 AM without disturbing the early risers.\n\nFuel\nA team runs on caffeine. The kitchen features a commercial-grade Breville Oracle Touch espresso machine and a dual-boiler drip system. The communal island is massive, designed for quick team lunches without clearing laptops.",
+    "images": [
+      "/images/rooms/401-1.webp",
+      "/images/rooms/401-2.webp",
+      "/images/rooms/401-3.webp"
+    ]
+  },
+
+  {
+    "id": 402,
+    "title": "Esports Bootcamp Base",
+    "category": "Team Squad",
+    "guests": 5,
+    "size": 120,
+    "price": 600,
+    "view": "Training Grounds",
+    "rating": 4.8,
+    "bed_type": "5x Single",
+    "floor": 1,
+    "amenities": ["wifi", "ac", "soundproof", "monitor", "kitchen"],
+    "work_setup": [
+      "5x High-End PCs (RTX 4090 / i9)",
+      "BenQ ZOWIE XL2566K (360Hz) Monitors",
+      "Herman Miller x Logitech Embody Chairs",
+      "10Gbps Local LAN Switch"
+    ],
+    "features": [
+      "Soundproof Scrim Room (Glass Walled)",
+      "Tactical Review Area (Touch Screen)",
+      "Philips Hue Sync (Team Colors)",
+      "Red Bull Fridge (Stocked)"
+    ],
+    "description": "Wired for gaming. 5 gaming setups, ergonomic chairs, and soundproofing for late-night screams of victory.",
+    "long_description": "Latency is the enemy. This unit is hardwired directly to our main server rack via CAT6a, bypassing the standard hotel network to guarantee the lowest possible ping to major game servers.\n\nThe Scrim Room\nThe heart of the villa is the soundproof glass 'Scrim Room'. It houses five battle stations arranged in a standard team configuration. We provide the hardware (RTX 4090 builds), but you can bring your own peripherals. The BenQ Zowie 360Hz monitors are the tournament standard for CS2 and Valorant.\n\nTactical Analysis\nOutside the glass box is a lounge area with a 65-inch touch-screen tactical board. It’s designed for replay analysis and strategy sessions between matches. The lighting system (Philips Hue) can be synced to your team colors to set the atmosphere.\n\nErgonomics\nWe know 12-hour practice sessions take a toll. That is why every station is equipped with the Herman Miller x Logitech Embody chair, designed specifically to support forward-leaning gaming postures and keep blood flowing.",
+    "images": [
+      "/images/rooms/402-1.webp",
+      "/images/rooms/402-2.webp",
+      "/images/rooms/402-3.webp"
+    ]
+  },
+
+
+  {
+    "id": 403,
+    "title": "The Cliffhanger Lodge",
+    "category": "Team Squad",
+    "guests": 4,
+    "size": 100,
+    "price": 550,
+    "view": "Ocean Breeze",
+    "rating": 4.9,
+    "bed_type": "2x King (Split Option)",
+    "floor": "Suspended",
+    "amenities": ["wifi", "ac", "kitchen", "recovery", "fireplace"],
+    "work_setup": [
+      "Modular 'Lounge-to-Work' Furniture",
+      "Communal Walnut Workbench",
+      "Celestron NexStar 8SE Telescope",
+      "Sonos Arc Surround System"
+    ],
+    "features": [
+      "Cantilevered Mesh 'Relaxation Net'",
+      "Full Manduka Yoga Studio Gear",
+      "Wrap-around Glass Railing",
+      "Hanging Gyrofocus Fireplace"
+    ],
+    "description": "Perched on a cliff. Ideal for retreat groups focusing on yoga and mindfulness. Massive deck.",
+    "long_description": "Perspective shifts when you are 100 meters above the ground. This unit is an engineering marvel, cantilevered over the valley floor to provide an 'Overview Effect' for your team.\n\nFluid Space\nCreativity hates rigidity. The main living area features modular low-profile furniture that can be easily rearranged. In five minutes, you can transform the room from a strategy circle into a yoga studio for four (mats and blocks provided).\n\nThe Void\nThe outdoor deck features a structural mesh 'hammock floor' suspended over the drop. It is the ultimate spot for decompression. Lying there, suspended between the rock face and the sky, is where the biggest mental blocks tend to dissolve.\n\nAnalog Inspiration\nWhile the WiFi is fast, we encourage looking outward. The living room includes a professional Celestron telescope for stargazing. There is no TV; instead, the focal point is the suspended Gyrofocus fireplace that rotates 360 degrees.",
+    "images": [
+      "/images/rooms/403-1.webp",
+      "/images/rooms/403-2.webp",
+      "/images/rooms/403-3.webp"
+    ]
+  },
+
+  {
+    "id": 404,
+    "title": "Project X Glass House",
+    "category": "Team Squad",
+    "guests": 4,
+    "size": 110,
+    "price": 580,
+    "view": "Forest Zen",
+    "rating": 4.7,
+    "bed_type": "2x Queen + 2x Single",
+    "floor": "Ground (Hidden)",
+    "amenities": ["wifi", "ac", "workspace", "pet", "fireplace", "kitchen"],
+    "work_setup": [
+      "Switchable PDLC Privacy Glass",
+      "Starlink High Performance (Redundant)",
+      "Tesla Powerwall Backup",
+      "Hidden Biometric Entrance"
+    ],
+    "features": [
+      "Floor-to-Ceiling 360° Glass",
+      "Polished Concrete Radiant Floors",
+      "Remote Controlled Blackout Shell",
+      "Invisible Kitchen Appliances"
+    ],
+    "description": "Architectural masterpiece in the woods. Glass walls for inspiration, secluded location for absolute project confidentiality.",
+    "long_description": "Hidden deep within the property and accessible only by an unmarked footpath, 'Project X' is where stealth startups are born. It is designed for total immersion in nature with the option for absolute secrecy.\n\nTransparency vs. Privacy\nThe walls are made of 80% glass, blurring the line between indoors and outdoors to boost serotonin. However, privacy is instant: the PDLC smart glass turns from transparent to opaque white at the touch of a button, turning the entire house into a secluded whiteboard bunker.\n\nResilience\nDeadlines don't care about the weather. This unit is grid-independent, equipped with Tesla Powerwalls and a backup generator. Even if a storm knocks out power to the rest of the region, your servers and coffee machine will stay running.\n\nThe Design\nMinimalism reduces cognitive noise. The kitchen appliances are concealed behind matte black cabinetry. There are no handles, no clutter, and no distractions. Just you, your team, and the work.",
+    "images": [
+      "/images/rooms/404-1.webp",
+      "/images/rooms/404-2.webp",
+      "/images/rooms/404-3.webp"
+    ]
+  }
+
+]

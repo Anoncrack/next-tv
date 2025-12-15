@@ -1,0 +1,78 @@
+[
+  {
+    "id": "vault",
+    "title": "The Strategy Vault",
+    "subtitle": "Analog Intelligence",
+    "description": "Hidden behind a false bookshelf in the library lies a sanctuary for the strategic mind. This is not a noisy gaming hall; it is a hermetically sealed lounge designed for high-stakes conversation. The room is soundproofed to -60dB and features its own ventilation system for cigar aficionados.",
+    "quote": "Where deals are quietly closed over a game of Texas Hold'em.",
+    "features": [
+      "1920s Brunswick Billiards Table",
+      "Professional Poker Table (Dealer on request)",
+      "Biometric Fingerprint Access",
+      "Private Bar: Yamazaki 18 & Louis XIII"
+    ],
+    "specs": {
+      "Capacity": "8 Guests",
+      "Privacy": "Absolute",
+      "Vibe": "Speakeasy"
+    },
+    "image": "/images/vip/club.webp"
+  },
+  {
+    "id": "sky",
+    "title": "Aerial Expedition",
+    "subtitle": "The Overview Effect",
+    "description": "Sometimes you need to change your perspective to solve a problem. Disconnect from the grid and ascend 1,000 meters above the Boreal forest. Launching at dawn from our private clearing, this silent expedition offers a view of the wilderness that few will ever see. It is total silence, broken only by the burner.",
+    "quote": "See the forest not as trees, but as a system.",
+    "features": [
+      "Sunrise Launch Protocol",
+      "Champagne Breakfast upon Landing",
+      "GoPro 360 Footage Included",
+      "Pilot: 20+ Years Experience"
+    ],
+    "specs": {
+      "Duration": "3 Hours",
+      "Altitude": "3,000 ft",
+      "Season": "May - Oct"
+    },
+    "image": "/images/vip/balloon.webp"
+  },
+  {
+    "id": "chef",
+    "title": "Metabolic Architecture",
+    "subtitle": "Performance Catering",
+    "description": "Bypass the main dining hall entirely. For Inner Circle members, food is fuel tailored to your DNA. Your dedicated chef designs a hyper-personalized menu based on your preferences or even blood work analysis. The kitchen comes to you—whether on your private deck or deep in the woods.",
+    "quote": "Fuel for the mind, crafted with Michelin precision.",
+    "features": [
+      "100-Mile Sourcing Rule",
+      "Keto / Paleo / Vegan Protocols",
+      "Biomarker-Based Menu Design",
+      "Invisible Service (Butler Pantry)"
+    ],
+    "specs": {
+      "Service": "24/7",
+      "Style": "Omakase",
+      "Location": "In-Villa"
+    },
+    "image": "/images/vip/chef.webp"
+  },
+  {
+    "id": "sound",
+    "title": "Acoustic Fireside",
+    "subtitle": "Sonic Intimacy",
+    "description": "Music returned to its roots. We curate private, unamplified performances by visiting artists around the central fire pit. No amplifiers, no crowds, no phones recording video. Just raw talent, the crackle of burning pine, and the company of the Inner Circle.",
+    "quote": "A visceral reconnection with the primal act of storytelling.",
+    "features": [
+      "Curated Artist Lineup",
+      "Unamplified (Raw Acoustics)",
+      "Open-Fire Late Night Snacks",
+      "Wool Blankets & Hot Toddy Service"
+    ],
+    "specs": {
+      "Guests": "Max 12",
+      "Setting": "Outdoor",
+      "Time": "Post-Sunset"
+    },
+    "image": "/images/vip/music.webp"
+  }
+]

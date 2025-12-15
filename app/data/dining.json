@@ -1,0 +1,29 @@
+[
+  {
+    "id": "wild-game",
+    "title": "The Forager's Canvas",
+    "subtitle": "Wild Sourcing",
+    "description": "We do not design a menu; we interpret the landscape. This season features hand-harvested Venison Tartare with pickled spruce tips, juniper oil, and a dusting of lichen powder. It is the forest floor, reimagined on a ceramic plate.",
+    "tags": ["Venison", "Spruce", "Raw"],
+    "image": "/images/dining/d1.webp",
+    "link": "/activities/dining"
+  },
+  {
+    "id": "open-fire",
+    "title": "Ember-Roasted Trout",
+    "subtitle": "Primal Technique",
+    "description": "Caught at dawn in our glacial lake, cooked at dusk over hard maple embers. The skin is blistered and smoky, the flesh creates a delicate contrast with the fermented gooseberry beurre blanc. A tribute to the primitive art of fire.",
+    "tags": ["Lake Trout", "Smoke", "Maple"],
+    "image": "/images/dining/d2.webp",
+    "link": "/activities/dining"
+  },
+  {
+    "id": "cellar",
+    "title": "Subterranean Cellar",
+    "subtitle": "Bio-Dynamic Pairing",
+    "description": "Our wine list ignores geography in favor of philosophy. We pour low-intervention vintages that mirror the raw, unpolished beauty of the Canadian Shield. Expect funky skin-contact whites and deep, sediment-rich reds.",
+    "tags": ["Natural Wine", "Rare Vintages"],
+    "image": "/images/dining/d3.webp",
+    "link": "/activities/dining"
+  }
+]

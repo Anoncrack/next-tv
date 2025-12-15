@@ -1,0 +1,62 @@
+[
+  {
+    "category": "Tech & Connectivity",
+    "questions": [
+      {
+        "q": "Is the WiFi truly reliable enough for critical calls?",
+        "a": "Yes. We treat connectivity like oxygen. We utilize a Dual-WAN setup: a dedicated 1Gbps Fiber line as the primary, with Starlink High Performance as an automatic failover. Every room features a hardwired Ethernet port and a dedicated Unifi 6E Access Point. You will not experience packet loss."
+      },
+      {
+        "q": "Do I need to bring my own monitor?",
+        "a": "Only if you have very specific needs. All 'Solo Focus' and 'Partner' suites come equipped with at least one 27-inch 4K monitor (Dell UltraSharp or LG Ergo) and a universal Thunderbolt dock. We also stock spare HDMI, USB-C, and DisplayPort cables at the concierge."
+      },
+      {
+        "q": "Is there cell service on the property?",
+        "a": "It is spotty. We have installed signal boosters in the Main Lodge and Gym that support major carriers (Telus, Rogers, Bell). However, once you step onto the trails, you will lose signal. We recommend enabling 'WiFi Calling' on your phone before arrival."
+      }
+    ]
+  },
+  {
+    "category": "Logistics & Access",
+    "questions": [
+      {
+        "q": "How do I get there without a car?",
+        "a": "We operate a private 'Thunder Shuttle' from Vancouver International Airport (YVR) every Friday and Sunday at 2:00 PM. The drive takes approximately 2 hours. If you need a private transfer outside these times, we can arrange a black car service or provide helipad coordinates for charter flights."
+      },
+      {
+        "q": "What is the check-in/check-out process?",
+        "a": "Completely contactless. 24 hours before arrival, you will receive a unique 6-digit PIN via email. This code grants access to the main gate, the lodge, and your specific suite. Check-in is at 3:00 PM, Check-out is at 11:00 AM. Early access can be requested via the app."
+      },
+      {
+        "q": "Can I receive Amazon/Courier packages?",
+        "a": "Yes. Many guests stay for weeks and need supplies. Address packages to 'ThunderVoyage Reception - [Your Name]'. We receive deliveries daily at 10 AM. Please note that overnight shipping often takes 2 days due to our remote location."
+      }
+    ]
+  },
+  {
+    "category": "Sustenance & Health",
+    "questions": [
+      {
+        "q": "I have strict dietary requirements (Keto/Vegan/Allergies).",
+        "a": "Our kitchen is not a standard restaurant; it is a performance fueling station. When you book, you will receive a 'Nutrition Profile' form. Our chef designs meals specifically around common protocols (Paleo, Keto, Vegan). We are a peanut-free facility."
+      },
+      {
+        "q": "Is the water safe to drink?",
+        "a": "It is better than safe; it is pristine. Our water comes from a deep aquifer well on the property and goes through a triple-filtration and UV purification process. It has a naturally high mineral content (magnesium/calcium). No plastic bottles needed."
+      }
+    ]
+  },
+  {
+    "category": "Wilderness & Safety",
+    "questions": [
+      {
+        "q": "Are there bears? Is it safe to hike alone?",
+        "a": "Yes, we share this land with Black Bears. Encounters are rare but possible. Every room is equipped with a bear spray canister and a bell. We require all guests to watch a 5-minute safety briefing upon arrival. For deep forest hikes, we recommend taking a Garmin GPS tracker from the lobby."
+      },
+      {
+        "q": "What happens in a medical emergency?",
+        "a": "We have an on-site paramedic available 24/7. For serious incidents, the nearest hospital in Whistler is a 25-minute drive. We also maintain a direct line to local Search & Rescue services for trail emergencies."
+      }
+    ]
+  }
+]
